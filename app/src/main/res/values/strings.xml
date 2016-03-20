@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="action_settings">Settings</string>
+    <!-- Added extra strings -->
+    <string name="text">Wanna hear some Chuck Norris jokes?</string>
+    <string name="button_text">Try me!</string>
+</resources>
